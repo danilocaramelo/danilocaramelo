@@ -3,7 +3,6 @@
 - :globe_with_meridians: Software Developer and Psychologist
 - :briefcase: Working at Solutis since dec-2020 as Dev Jr
 - 🔭 Allways learning about economics, investing and Arduino
-<br />
 
 ### Languages and Tools:
 <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilocaramelo&layout=compact&theme=dracula" />
